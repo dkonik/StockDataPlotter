@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 #	v = volume
 #	o = open
 #	h = high
-#	l = low
+#	l = low 
 
 baseUrl = "http://www.google.com/finance/getprices?"
 target = open("sampleJson.txt", 'w')
